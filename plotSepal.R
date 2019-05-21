@@ -1,2 +1,2 @@
 # plot width
-plot(iris$Sepal.Width, col="red")
+plot(iris$Sepal.Width, col="green")
